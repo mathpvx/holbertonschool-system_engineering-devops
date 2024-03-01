@@ -1,6 +1,6 @@
 # Scale up
 
-[whiteboarding of Scaling up](3-scale_up.jpg)
+![whiteboarding of Scaling up](3-scale_up.jpg)
 
 ## Specifics About This Infrastructure
 
